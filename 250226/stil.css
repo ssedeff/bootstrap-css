@@ -1,0 +1,12 @@
+body{
+    background-image: url(bg2.jpg);
+    background-size: cover;
+}
+
+.menu .nav-link{
+    color: black;
+}
+a:hover{
+    background-color: #b42859;
+    transition: .5s;
+}
